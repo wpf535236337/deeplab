@@ -1,12 +1,12 @@
 # DeepLab: Deep Labelling for Semantic Image Segmentation
 
-##Warning 
+## Warning 
 
 This is the subdirectory extracted from the official implementation [deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) on 20190425.
 
 You can access the ongoing project，if there are some questions or suggestions, welcome to contact me(pfw813@gmail.com)
 
-##Original project
+## Original project
 
 DeepLab is a state-of-art deep learning model for semantic image segmentation,
 where the goal is to assign semantic labels (e.g., person, dog, cat and so on)
